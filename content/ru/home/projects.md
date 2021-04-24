@@ -35,6 +35,12 @@ content:
     tag: реквизит
   - name: близнецы
     tag: близнецы
+  - name: семья
+    tag: семья
+  - name: беременность
+    tag: беременность
+  - name: силуэт
+    tag: силуэт
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -35,6 +35,12 @@ content:
     tag: props
   - name: twins
     tag: twins
+  - name: family
+    tag: family
+  - name: pregnancy
+    tag: pregnancy
+  - name: silhouette
+    tag: silhouette
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
