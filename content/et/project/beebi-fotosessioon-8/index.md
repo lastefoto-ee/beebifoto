@@ -2,7 +2,6 @@
 title: Beebi fotosessioon
 summary: beebitüdruk, 19 päeva uus
 tags:
-- kõik
 - rekvisiidis
 - mähitud
 date: "2021-02-13T00:00:00Z"

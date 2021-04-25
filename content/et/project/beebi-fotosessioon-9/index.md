@@ -2,7 +2,6 @@
 title: Vastsündinu fotosessioon
 summary: beebitüdruk, 35 päeva uus
 tags:
-- kõik
 - rekvisiidis
 - mähitud
 date: "2020-10-17T00:00:00Z"

@@ -2,7 +2,6 @@
 title: Beebiootuse fotosessioon
 summary: Beebiootuse fotosessioon stuudios
 tags:
-- kõik
 - beebiootus
 - siluett
 date: "2019-12-11T00:00:00Z"

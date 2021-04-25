@@ -2,7 +2,6 @@
 title: Vastsündinu pildistamine
 summary: beebitüdruk, 9 päeva uus
 tags:
-- kõik
 - rekvisiidis
 date: "2020-08-22T00:00:00Z"
 

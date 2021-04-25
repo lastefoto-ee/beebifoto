@@ -2,7 +2,6 @@
 title: Vastsündinud kaksikute pildistamine
 summary: kaksikud, 22 päeva uus
 tags:
-- kõik
 - kaksikud
 - rekvisiidis
 - mähitud

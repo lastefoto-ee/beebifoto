@@ -2,7 +2,6 @@
 title: Beebiootuse fotosessioon
 summary: Beebiootuse fotosessioon Vogue stiilis
 tags:
-- kõik
 - beebiootus
 date: "2020-10-21T00:00:00Z"
 

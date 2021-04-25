@@ -2,7 +2,6 @@
 title: Beebiootuse pildistamine
 summary: Beebiootuse pildistamine Vogue stiilis
 tags:
-- kõik
 - beebiootus
 date: "2020-10-17T00:00:00Z"
 

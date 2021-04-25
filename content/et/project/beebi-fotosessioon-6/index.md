@@ -2,7 +2,6 @@
 title: Vastsündinud beebide fotosessioon
 summary: mähitud, 19 päeva uus
 tags:
-- kõik
 - kaksikud
 - mähitud
 - pere

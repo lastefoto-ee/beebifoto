@@ -2,7 +2,6 @@
 title: Beebiootuse pildistamine
 summary: Beebiootuse pildistamine stuudios
 tags:
-- kõik
 - beebiootus
 - pere
 date: "2020-10-17T00:00:00Z"

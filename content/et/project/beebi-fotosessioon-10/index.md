@@ -2,7 +2,6 @@
 title: Vastsündinud beebide fotosessioon
 summary: kaksikud, 10 päeva uus
 tags:
-- kõik
 - kaksikud
 - pere
 date: "2020-10-15T00:00:00Z"

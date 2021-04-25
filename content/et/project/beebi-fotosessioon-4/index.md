@@ -2,7 +2,6 @@
 title: Beebi pildistamine
 summary: beebipoiss, 6 päeva uus
 tags:
-- kõik
 - mähitud
 - pere
 date: "2020-05-16T00:00:00Z"

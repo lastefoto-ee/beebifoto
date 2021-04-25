@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Портфолио
-subtitle: 'неподвластные времени и самые красивые фотографии новорожденных'
+subtitle: 'вневременные и самые красивые фотографии беременности и новорожденных'
 
 content:
   # Page type to display. E.g. project.
@@ -26,7 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: все
-    tag: все
+    tag: "*"
   - name: бинбег
     tag: бинбег
   - name: обмотка 

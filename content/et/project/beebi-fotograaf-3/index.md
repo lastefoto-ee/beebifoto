@@ -2,7 +2,6 @@
 title: Vastsündinu pildistamine
 summary: beebipoiss, 28 päeva uus
 tags:
-- kõik
 - pere
 date: "2021-02-01T00:00:00Z"
 

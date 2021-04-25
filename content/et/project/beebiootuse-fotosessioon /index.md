@@ -2,7 +2,6 @@
 title: Beebiootuse fotosessioon
 summary: Beebiootuse fotosessioon Tallinnas
 tags:
-- kõik
 - beebiootus
 date: "2020-08-22T00:00:00Z"
 

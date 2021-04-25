@@ -2,7 +2,6 @@
 title: Vastsündinud beebide sessioon
 summary: beebipoiss, 21 päeva uus
 tags:
-- kõik
 - pere
 date: "2020-07-30T00:00:00Z"
 

@@ -2,7 +2,6 @@
 title: Vastsündinu sessioon
 summary: beebitüdruk, 19 päeva uus
 tags:
-- kõik
 - beanbagil
 date: "2020-07-30T00:00:00Z"
 

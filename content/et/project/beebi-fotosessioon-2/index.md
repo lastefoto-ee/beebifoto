@@ -2,7 +2,6 @@
 title: Vastsündinud beebide pildistamine
 summary: kaksikud, 22 päeva uus
 tags:
-- kõik
 - beanbagil
 - kaksikud
 date: "2021-01-04T00:00:00Z"

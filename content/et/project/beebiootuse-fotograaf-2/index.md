@@ -2,7 +2,6 @@
 title: Beebiootuse pildistamine
 summary: Beebiootuse pildistamine Tallinnas
 tags:
-- kõik
 - beebiootus
 - siluett
 date: "2021-10-17T00:00:00Z"
