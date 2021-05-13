@@ -35,6 +35,7 @@ tags:
 - newborn photosession
 - newborn photographer
 - newborn session
+- newborn
 
 categories:
 - newborn
