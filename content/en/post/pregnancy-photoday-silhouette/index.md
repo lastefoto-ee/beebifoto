@@ -102,7 +102,7 @@ _Recording on a prepaid basis of 20€. If the photosession is canceled less tha
 - photo session within 30 minutes
 - 7 digital photos with retouch (silhouettes on white and black backgrounds)
 - all other successful photos without processing
-- studio rental
+- studio rent
 - assistance in posing
 
 ## What is silhouette photography?
