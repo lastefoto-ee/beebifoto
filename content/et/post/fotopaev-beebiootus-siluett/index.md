@@ -6,7 +6,7 @@ subtitle: Beebiootuse pildistamise fotopäev
 summary: Beebiootuse pildistamise fotopäev toimub 28. mail 2021 Tallinnas
 
 # Link this post with a project
-projects: 
+projects: [beebiootus]
 
 
 # Date published
@@ -33,7 +33,10 @@ authors:
   - admin
 
 tags:
+  - beebiootus
   - beebiootuse fotosessioon
+  - beebiootuse fotograaf
+  - lapseootus
   - Vogue
   - fotopäev
 

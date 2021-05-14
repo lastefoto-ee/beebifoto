@@ -7,7 +7,7 @@ summary: Klassikalised kaadrid vastsündinu fotosessioonil
 
 # Link this post with a project
 projects: 
-  - vastsündinud
+  - beebi
 
 # Date published
 date: "2021-05-13T00:00:00Z"
@@ -33,11 +33,12 @@ authors:
   - admin
 
 tags:
-  - vastsündinu fotosessioon
+  - beebi fotosessioon
+  - beebi pildistamine
   - vastsündinud
 
 categories:
-  - vastsündinud
+  - beebi
 ---
 Kõigil beebifotograafidel on lemmikpoos, millesse nad kõige sagedamini oma väikeseid modelle panevad.
 Ja ma pole erand: minu lemmikpoos - kõhu peal.

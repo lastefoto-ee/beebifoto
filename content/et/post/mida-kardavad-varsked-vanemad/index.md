@@ -1,12 +1,12 @@
 ---
-title: Vastsündinud beebi fotosessioon - mida kardavad värsked vanemad?
-subtitle: Mida meeles pidada vastsündinu fotosessiooni tellimisel
+title: Beebi fotosessioon - mida kardavad värsked vanemad?
+subtitle: Mida meeles pidada beebi fotosessiooni tellimisel
 
 # Summary for listings and search engines
-summary: Mida meeles pidada vastsündinu fotosessiooni tellimisel
+summary: Mida meeles pidada beebi fotosessiooni tellimisel
 
 # Link this post with a project
-projects: []
+projects: [beebi]
 
 # Date published
 date: "2021-04-21T00:00:00Z"
@@ -32,12 +32,13 @@ authors:
 - admin
 
 tags:
-- vastsündinu fotosessioon
-- beebifotograaf
-- vastsündinud beebi fotosessioon
+  - beebi fotosessioon
+  - beebi pildistamine
+  - vastsündinud
+  - beebifotograaf
 
 categories:
-- vastsündinud beebi
+- beebi
 ---
 
 ## Minu beebi on nii väike, äkki on parem kui lükkame fotosessiooni natuke edasi?

@@ -1,6 +1,6 @@
 ---
 title: Photoday "Silhouettes"
-subtitle: Photo day for pregnant women
+subtitle: Photo day for pregnant ladies
 
 # Summary for listings and search engines
 summary: Photo day for pregnant ladies will take place on May 28, 2021 in Tallinn

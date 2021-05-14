@@ -1,9 +1,9 @@
 ---
 title: Mida beebiootuse fotosessioonile selga panna
-subtitle: Ettevalmistus lapseootuse pildistamiseks Vogue stiilis
+subtitle: Ettevalmistus beebiootuse pildistamiseks Vogue stiilis
 
 # Summary for listings and search engines
-summary: Ettevalmistus lapseootuse pildistamiseks Vogue stiilis
+summary: Ettevalmistus beebiootuse pildistamiseks Vogue stiilis
 
 
 # Link this post with a project
@@ -31,10 +31,12 @@ image:
   preview_only: false
 
 authors:
-  - Viktoria Iljin
+  - admin
 
 tags:
   - beebiootus
+  - beebiootuse fotosessioon
+  - beebiootuse fotograaf
   - lapseootus
   - Vogue 
   - riided
@@ -43,7 +45,6 @@ tags:
 categories:
   - beebiootus
 ---
-
 ## Bodi
 _Ideaalne variant_
 
