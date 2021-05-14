@@ -61,4 +61,4 @@ categories:
 
 {{< figure src="./fotosessiya-novorozhdennogo-4.jpg" title="Фотосессия новорожденных в студии Таллинна" >}}
 
-[Фотосессия новорожденного: цвет воспоминаний](https://www.lastefoto.ee/ru/post/fotosessiya-novorozhdennogo-tsvet-vospominaniy-sovety-fotografa/)
+[Фотосессия новорожденного: цвет воспоминаний. Советы фотографа.](https://www.lastefoto.ee/ru/post/fotosessiya-novorozhdennogo-tsvet-vospominaniy-sovety-fotografa/)

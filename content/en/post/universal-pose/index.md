@@ -62,4 +62,4 @@ But photography of newborns does not tolerate fanaticism, it requires maximum ca
 
 {{< figure src="./newborn-session-4.jpg" title="Newborn session in the studio of Tallinn" >}}
 
-[Newborn photo session: the color of memories](https://www.lastefoto.ee/en/post/newborn-session-the-colour-of-memories-newborn-photographer-tips/)
+[Newborn photosession: the color of memories. Newborn photographer tips.](https://www.lastefoto.ee/en/post/newborn-session-the-colour-of-memories-newborn-photographer-tips/)

@@ -57,4 +57,4 @@ Kuid beebi fotograafia ei salli fanatismi, see nõuab maksimaalset ettevaatust j
 
 {{< figure src="./beebi-fotosessioon-4.jpg" title="Beebi fotosessioon Tallinnas" >}}
 
-[Beebi fotosessioon: mälestuste värv](https://www.lastefoto.ee/post/vastsundinu-fotosessioon-malestuse-varv-vastsundinu-fotograafi-soovitused/)
+[Beebi fotosessioon: mälestuse värv. Beebifotograafi soovitused.](https://www.lastefoto.ee/post/beebi-fotosessioon-malestuse-varv-beebi-fotograafi-soovitused/)
