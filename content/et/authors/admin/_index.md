@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Newborn Retreat
+    institution: themilkyway.ca
+    year: 2021
   - course: Pregnancy photosession in the style of Vogue
     institution: bunaeva.com
     year: 2021  
@@ -76,17 +79,14 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 
-Tere! Olen Viktoria - beebiootuse ja beebifotograaf Tallinnas, Eestis. 
+Tere! Olen Viktoria - beebiootuse ja beebifotograaf Tallinnas, Eestis.
 
-Koos saaksime luua teie pere ilusa ja ainulaadse ajaloo. 
+Professionaalselt olen tegelenud fotograafiaga alates 2016. aastast. Kuuendat aastat usaldavad emad mind oma beebisid, selle aja jooksul olen pildistanud üle 400 beebit.
 
-Lapsed on nii loomulikud, siirad ja emotsionaalsed ning kasvavad liiga kiiresti. 
+Beebifotosessioon beebi esimesel kahel nädalal on imeline, võrreldamatu pildistamisviis. Elegantne minimalism, lihtsus ja lakoonilisus võimaldavad teil keskenduda ainult beebile. Sellised pildid puudutavad hingesügavust!
 
-Iga fotosessioon on minu jaoks ainulaadne kogemus. 
-
-Teie pere emotsioonide, vaimu ja soojuse jäädvustamiseks veedan teiega nii palju aega, kui vaja ilusate piltide saamiseks. 
-
-Parima tulemuse saamiseks kohanen delikaatselt beebi meeleolu peale .  
+Töötan oma beebidele spetsialiseerinud stuudios, mille olen varustanud, võttes arvesse kõiki beebide pildistamise omapärasid ja nüansse.
+Kogutud parim rekvisiit ja originaalsed aksessuaarid kogu maailmast.
 
 Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios. 
 
