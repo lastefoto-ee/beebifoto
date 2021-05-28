@@ -78,7 +78,6 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
 Tere! Olen Viktoria - beebiootuse ja beebifotograaf Tallinnas, Eestis.
 
 Professionaalselt olen tegelenud fotograafiaga alates 2016. aastast. Kuuendat aastat usaldavad emad mind oma beebisid, selle aja jooksul olen pildistanud üle 400 beebit.
