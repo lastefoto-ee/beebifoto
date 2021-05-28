@@ -48,7 +48,7 @@ categories:
 ## Bodi
 _Ideaalne variant_
 
-{{< figure src="./mida-beebiootuse-fotosessioonile-selga-panna-1.jpg" title="Beebiootuse fotosessioon Vogue stiilis Tallinnas" >}}
+{{< figure src="./beebiootuse-fotosessioon-1.jpg" title="Beebiootuse fotosessioon Vogue stiilis Tallinnas" >}}
 
 Rõhutab suurepäraselt figuuri ilusaid jooni. Seda saab kasutada nii iseseisva rõivaesemena kui ka koos teiste rõivaesemetega.
 
@@ -58,7 +58,7 @@ Ka erksavärviline või prinditud bodi näeb kaadris hea välja, kuid palun kirj
 
 ## Aluspesu
 
-{{< figure src="./mida-beebiootuse-fotosessioonile-selga-panna-2.jpg" title="Beebiootuse fotosessioon Tallinnas" >}}
+{{< figure src="./beebiootuse-fotosessioon-2.jpg" title="Beebiootuse fotosessioon Tallinnas" >}}
 
 Aluspesus piltide jaoks sobib igasugune aluspesu - põhiline, sportlik, pidulik.
 
@@ -69,7 +69,7 @@ Aluspesu peale saab selga panna särgi/jope/pintsaku ja panna teksad/püksid, ki
 ## Ühevärviline kleit
 _Rõhutab teie figuuri graatsilisi jooni_
 
-{{< figure src="./mida-beebiootuse-fotosessioonile-selga-panna-3.jpg" title="Lapseootuse pildistamine stuudios" >}}
+{{< figure src="./beebiootuse-fotosessioon-3.jpg" title="Lapseootuse pildistamine stuudios" >}}
 
 _JAH:_ Luksuslikud õhtukleidid sobivad ideaalselt Vogue stiilis beebiootuse pildistamiseks.
 Isegi kui seda ei saa täielikult kinnitada, pole see oluline, mõtleme välja, kuidas seda varjata.
@@ -78,31 +78,31 @@ _EI:_ suvekleidid
 
 ## Baaskleit
 
-{{< figure src="./mida-beebiootuse-fotosessioonile-selga-panna-4.jpg" title="Lapseootuse fotosessioon Tallinnas" >}}
+{{< figure src="./beebiootuse-fotosessioon-4.jpg" title="Lapseootuse fotosessioon Tallinnas" >}}
 
 Tavaline nuudlikleit töötab iseseisvalt suurepäraselt ja võib olla ka hea alus ülerõivaste, aksessuaaride, kingadega pildistamiseks.
 
 ## Särk
 
-{{< figure src="./mida-beebiootuse-fotosessioonile-selga-panna-5.jpg" title="Beebiootuse fotosessioon Vogue stiilis Tallinnas" >}}
+{{< figure src="./beebiootuse-fotosessioon-5.jpg" title="Beebiootuse fotosessioon Vogue stiilis Tallinnas" >}}
 
 Särk peab olema natuke üle teie suuruse! Võtke mehe oma või naise oma, kuid teie suurusest 1-2 numbri suurem. 
 
-{{< figure src="./mida-beebiootuse-fotosessioonile-selga-panna-6.jpg" title="Beebiootuse pildistamine Tallinnas" >}}
+{{< figure src="./beebiootuse-fotosessioon-6.jpg" title="Beebiootuse pildistamine Tallinnas" >}}
 
 Särgi alternatiiviks on jope/pintsak palja keha peale või bodi/aluspesu peale.
 See peaks olema pikk ja vaba. Siis on pilt kaasaegne, stiilne ja visuaalselt salendav.
 
 ## Teksad/püksid/pükskostüümid
 
-{{< figure src="./mida-beebiootuse-fotosessioonile-selga-panna-7.jpg" title="Lapseootuse fotosessioon Tallinna stuudios" >}}
+{{< figure src="./beebiootuse-fotosessioon-7.jpg" title="Lapseootuse fotosessioon Tallinna stuudios" >}}
 
 Teksaseid/püksisid saab kombineerida särkide, bodi, ülerõivastega või pildistada niisama.
 Teksad/püksid ei pruugi olla kõhule täielikult kinnitatud, kuid need peavad olema stiililt moodsad - mitte liiga tihedad, ilma tikanditeta, strassideta, aukudeta jne.
 
 ## Üleriided
 
-{{< figure src="./mida-beebiootuse-fotosessioonile-selga-panna-8.jpg" title="Beebiootuse fotosessioon Vogue stiilis Tallinnas" >}}
+{{< figure src="./beebiootuse-fotosessioon-8.jpg" title="Beebiootuse fotosessioon Vogue stiilis Tallinnas" >}}
 
 Vogue stiili üks eeliseid on see, et me ei piirdu interjööriga ja saame vabalt kasutada ülerõivaid.
 Trentš, mantel, kasukas, vihmamantel, nahk- või teksajakk.
