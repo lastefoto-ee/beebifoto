@@ -3,7 +3,7 @@ title: Newborn session
 summary: babygirl, 53 days new
 tags:
 - wrapped
-date: "2021-06-06T00:00:00Z"
+date: "2021-10-19T10:12:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,11 +12,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Twitter
-  url: https://twitter.com/lastefoto
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""
