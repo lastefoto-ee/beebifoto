@@ -1,5 +1,5 @@
 ---
-title: Newborn photosession
+title: Newborn photo shoot
 summary: beebitüdruk, 9 days new
 tags:
 - props

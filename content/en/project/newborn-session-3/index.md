@@ -1,5 +1,5 @@
 ---
-title: Newborn photosession
+title: Newborn photo shoot
 summary: kaksikud, 22 days new
 tags:
 - twins

@@ -1,5 +1,5 @@
 ---
-title: Newborn photosession in Tallinn
+title: Newborn photo shoot in Tallinn
 summary: babygirl, 8 days new
 tags:
 - beanbag
