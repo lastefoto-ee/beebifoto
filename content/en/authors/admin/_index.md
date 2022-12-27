@@ -85,6 +85,6 @@ Hi! I'm Viktoria, a newborn photographer in Tallinn, Estonia  since 2016. Mother
 
 See you at the photo session!
 
-{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="https://www.beebifoto.eu/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="https://www.lbeebifoto.eu/en/project/newborn/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="https://www.beebifoto.eu/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="https://www.beebifoto.eu/en/project/newborn/" cta_alt_new_tab="false" >}}
 
 _You might want to use Facebook/WhatsApp button in the bottom right corner for faster answer, or simply call +37255599546_
