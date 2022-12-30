@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 title: Portfolio
 subtitle: 'timeless and most beautiful pregnancy and newborn pictures'
