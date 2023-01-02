@@ -39,7 +39,7 @@ tags:
   - photo day
 
 categories:
-  - pregnancy
+  - maternity
 
 
 gallery_item:

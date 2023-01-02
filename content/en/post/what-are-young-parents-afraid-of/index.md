@@ -40,7 +40,7 @@ tags:
 - newborn
 
 categories:
-- newborn
+- newborn photography
 ---
 ## My baby is so tiny; perhaps we could put off the photo shoot till he gains strength and develops a little?
 

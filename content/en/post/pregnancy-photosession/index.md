@@ -40,7 +40,7 @@ tags:
   - silhouettes
 
 categories:
-- pregnancy
+- maternity
 
 ---
 There are pregnancy photo sessions that are inspiring, and this is one of them.

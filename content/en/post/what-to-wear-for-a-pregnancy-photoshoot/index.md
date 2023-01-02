@@ -41,7 +41,7 @@ tags:
   - clothes
 
 categories:
-  - pregnancy
+  - maternity
 ---
 
 ## Bodysuit

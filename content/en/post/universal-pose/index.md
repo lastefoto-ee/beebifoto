@@ -41,7 +41,7 @@ tags:
   - newborn photographer
 
 categories:
-  - newborn
+  - newborn photography
 
 ---
 Every newborn photographer has a preferred pose in which they lay their tiny models most frequently. 
