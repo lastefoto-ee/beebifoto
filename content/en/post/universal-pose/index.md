@@ -13,7 +13,7 @@ projects:
 date: "2022-12-19T10:05:53+03:00"
 
 # Date updated
-lastmod: "2022-12-19T10:05:53+03:00"
+lastmod: "2023-01-02T10:05:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -44,23 +44,23 @@ categories:
   - newborn
 
 ---
-All newborn photographers have a favorite pose, in which they most often lay their little models.
-And I am no exception: my favorite pose on the tummy.
+Every newborn photographer has a preferred pose in which they lay their tiny models most frequently. 
+And I'm no different—my favorite pose is on the tummy.
 
 {{< figure src="./newborn-session-1.jpg" title="Newborn session in Tallinn" >}}
 
-Insanely touching, with a touching deflection in the back and legs folded in a "bow", it is ideal for both near and distant shots... Photos in this pose are chosen by parents most often for printing.
+Insanely touching, with a touching deflection in the back and legs folded in a "bow", it is ideal for both near and distant shots... Parents frequently decide to print pictures of their baby in this pose.
 
 {{< figure src="./newborn-session-2.jpg" title="Newborn photo shoot" >}}
 
-But, in spite of its seemingly naturalness, it is not so easy to lay the baby in this pose. Hypertonicity, colic, and insufficient experience of the photographer can interfere.
+Even though it seems natural, it is difficult to place the baby in this pose. Interfering factors include hypertonia, colic, and a photographer's lack of expertise. 
 But I always succeed.
 
-It is especially cool when it turns out to connect the elbow with the bent knee.
+When the elbow and bent knee contact, it is extremely cool.
 
 {{< figure src="./newborn-session-3.jpg" title="Newborn photo session in the studio" >}}
 
-But photography of newborns does not tolerate fanaticism, it requires maximum care and sensitivity. Therefore, if the baby from my third attempt does not fit into posing "according to the book", then I do not insist, but I am looking for an option that suits both of us. Moreover, the "on the tummy" pose is beautiful in any interpretation. ♥ ️
+However, newborn photography demands the extreme care and tenderness and does not accept fanaticism. As a result, if the baby from my third effort does not fit into pose "per the book," I will not insist and will instead search for a solution that works for both of us. The "on the tummy" pose is very lovely no matter how you look at it.
 
 {{< figure src="./newborn-session-4.jpg" title="Newborn session in the studio of Tallinn" >}}
 

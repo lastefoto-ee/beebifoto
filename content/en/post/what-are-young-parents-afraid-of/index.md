@@ -12,7 +12,7 @@ projects: [pregnancy]
 date: "2021-10-19T10:06:53+03:00"
 
 # Date updated
-lastmod: "2022-12-19T10:06:53+03:00"
+lastmod: "2023-01-02T10:06:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -42,30 +42,30 @@ tags:
 categories:
 - newborn
 ---
-## My baby is so small, maybe we should postpone the photo session and wait until he grows up a little and gets stronger?
+## My baby is so tiny; perhaps we could put off the photo shoot till he gains strength and develops a little?
 
-Not really better, because by refusing to take a photo of a newborn, you are missing the opportunity to capture the important moments of your baby's first days, which are truly worthy of your family photo album. The newborn looks so touching and tender right now. In a few months he/she will be completely different.
+No, not really. By refusing to have a newborn photographed, you miss the opportunity to capture the priceless moments of your baby's early days, which are certainly deserving of inclusion in your family photo album. Right now, the baby has a lovely, vulnerable look. He or she will change significantly in a short period of time.
 
 ![newborn photo shoot](./newborn-photosession-1.jpg) 
 
-## How to take a photo of a newborn if he only eats and sleeps?
+# How do you photograph a baby who only sleeps and eats? 
 
-Long and deep sleep is a real gift for a newborn photographer. With a sleeping baby, we can bring to life all photo ideas. But what to do when the baby is awake? In my practice, there were no babies who were awake throughout the entire newborn photo shoot. Although I always recommend setting aside enough time for photo shoot - about 2-3 hours and not planning important things (for example, going to the doctor) for the afternoon.
+A newborn photographer can really benefit from a long, deep sleep. All of our photo ideas can come to life with a sleeping baby. But what should you do if the baby is awake? In my experience, there has never been a newborn photo session where a baby was awake the entire time. Although I always advise blocking off enough time for the photo shoot—roughly 2-3 hours—and not scheduling crucial activities (like visiting the doctor) for the afternoon.
 
 ![newborn photography](./newborn-photosession-2.jpg)
 
-## Are poses safe for the baby?
+## Are poses safe for the newborn?
 
-Yes, the poses taken by an experienced newborn photographer are safe for the baby. They do not cause him any inconvenience - the baby continues to sleep peacefully and sweetly. When choosing a newborn photographer, make sure that he has the necessary qualifications. To do this, you can ask the photographer or see on the website what training courses he took in newborn photography.
+The poses used by a skilled newborn photographer are indeed safe for the baby. They don't bother him in any way, and the baby keeps on sleeping blissfully and sweetly. Make sure the newborn photographer you choose have the required qualifications. You can find out what training courses the photographer did in newborn photography by asking him or by checking his website.
 
 ![newborn photo shoot in Tallinn](./newborn-photosession-3.jpg)
 
-## Newborn photoshoot usually takes place in the studio. Is it clean enough?
+## Baby picture shoots often take place in a studio. Is it clean enough?
 
-Yes, in photo studios intended for newbornphoto shoots, they monitor the cleanliness. Everything you need for shooting is in the studio. Here, a comfortable temperature for the baby is maintained, the props are regularly processed with products safe for newborns.
+Yes, the cleanliness of newborn photography studios is checked regularly. The studio has all the equipment you'll need for shooting. The temperature is kept at a level that is comfortable for the baby, and the props are frequently cleaned with substances suitable for newborns.
 
 ![newborn session](./newborn-photosession-4.jpg)
 
-Enjoy the first photo shoot in your baby's life, because every moment is worth capturing! ❤️
+Every moment in your baby's life is worth capturing, so enjoy the first photo shoot! ❤️
 
 ![newborn pictures in Tallinn](./newborn-photosession-5.jpg)
