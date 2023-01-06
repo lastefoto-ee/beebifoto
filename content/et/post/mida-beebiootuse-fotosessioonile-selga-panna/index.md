@@ -5,7 +5,6 @@ subtitle: Ettevalmistus beebiootuse pildistamiseks Vogue stiilis
 # Summary for listings and search engines
 summary: Ettevalmistus beebiootuse pildistamiseks Vogue stiilis
 
-
 # Link this post with a project
 projects:
   - beebiootus

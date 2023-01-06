@@ -8,7 +8,6 @@ summary: Подготовка к фотосессии беременности �
 # Link this post with a project
 projects: 
 
-
 # Date published
 date: "2021-10-19T12:20:53+03:00"
 

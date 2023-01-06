@@ -1,8 +1,8 @@
 ---
-title: Pregnancy 
+title: Maternity 
 summary: photo shoot in Vogue style
 tags:
-- pregnancy
+- maternity
 date: "2022-12-25T09:42:40+03:00"
 
 # Optional external URL for project (replaces project detail page).
