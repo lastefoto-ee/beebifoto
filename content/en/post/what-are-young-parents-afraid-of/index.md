@@ -48,7 +48,7 @@ No, not really. By refusing to have a newborn photographed, you miss the opportu
 
 ![newborn photo shoot](./newborn-photosession-1.jpg) 
 
-# How do you photograph a baby who only sleeps and eats? 
+## How do you photograph a baby who only sleeps and eats? 
 
 A newborn photographer can really benefit from a long, deep sleep. All of our photo ideas can come to life with a sleeping baby. But what should you do if the baby is awake? In my experience, there has never been a newborn photo session where a baby was awake the entire time. Although I always advise blocking off enough time for the photo shoot—roughly 2-3 hours—and not scheduling crucial activities (like visiting the doctor) for the afternoon.
 

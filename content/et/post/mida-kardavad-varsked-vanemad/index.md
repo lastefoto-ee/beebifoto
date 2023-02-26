@@ -51,7 +51,6 @@ Tegelikult pole parem, sest keeldudes vastsündinu pildistamisest, jätate kasut
 
 ## Kuidas vastsündinut pildistada, kui ta ainult sööb ja magab?
 
-
 Pikk ja sügav uni - tõeline kingitus fotograafile. Magava beebiga saame realiseerida kõik pildistamise ideed. Aga mida teeme kui beebi ei maga? Minu praktikas pole veel beebisid olnud kes on jäänud ärkvel terve fotosessiooni ajal. Kuigi soovitan alati pildistamiseks piisavalt aega kõrvale jätta - umbes 2-3 tundi ja mitte planeerida olulisi tegevusi (näiteks arsti juurde minekut) päeva teiseks pooleks.
 
 ![beebi fotosessioon](./beebi-fotosessioon-2.jpg)
@@ -67,7 +66,6 @@ Jah, poosid, mis teeb kogenud professionaalne vastsündinu fotograaf on ohutud. 
 Jah, vastsündinu pildistamisele spetsialiseerunud stuudiotes jälgivad puhtust. Stuudios on kõik pildistamiseks vajalik. Stuudios hoiakse beebi jaoks mugavat temperatuuri ja rekvisiite töödeldakse regulaarselt vastsündinutele ohutute vahendite abil.
 
 ![beebifotosessioon](./beebi-fotosessioon-4.jpg)
-
 
 Nautige oma beebi esimest fotosessiooni, sest iga hetk on jäädvustamist väärt! ❤️
 
