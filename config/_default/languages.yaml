@@ -46,9 +46,9 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Newborn photographer
+  title: Baby photography
   params:
-    description: Pregnancy and newborn photographer in Tallinn - Viktoria Iljin
+    description: Baby photography in Tallinn - Viktoria Iljin
   menu:
     main:
       - name: About me
